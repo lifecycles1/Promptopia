@@ -1,0 +1,6 @@
+[] Implement Search in the feed component
+ - search by prompt content
+ - search by tag
+ - search by username
+[] Implement Click on tag in the feed component that populates the searchbar with the tag name
+[] Implement View other profiles in new file /api/profile/[id]/page.jsx
